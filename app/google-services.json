@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795856624868",
+    "project_id": "ladmu5xvc",
+    "storage_bucket": "ladmu5xvc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795856624868:android:0fa60ddd8af38688f5e0f1",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_ejercicio1_geomapatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795856624868-dfr23vpp9tr3l8p5qhcd28rjd9q1jikh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKu85B_sMwv-nbT0ijAvjdWrmiI8VNFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795856624868-dfr23vpp9tr3l8p5qhcd28rjd9q1jikh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
